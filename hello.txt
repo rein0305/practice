@@ -2,3 +2,5 @@ Hello,world!
 
 git hubでの編集
 ranking
+
+"masanoya"がここを変更
